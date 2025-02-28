@@ -1,0 +1,2 @@
+en el index,poder darle a una propiedad paa poder reservalo, pero para ello,debe estar logeado,sino que avise 
+que debe iniciar sesion con un cartel

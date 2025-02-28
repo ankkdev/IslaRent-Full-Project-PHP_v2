@@ -1,0 +1,15 @@
+{
+    "name": "toni/api",
+    "description": "pago con stripe",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "toni"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "stripe/stripe-php": "^16.5"
+    }
+}
