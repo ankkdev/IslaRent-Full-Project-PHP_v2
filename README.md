@@ -160,8 +160,10 @@ You can view the live demo of the platform here (JUST INDEX):
 
 Here are some screenshots of the platform:
 ![imagotipo_fondo](https://github.com/user-attachments/assets/8bb46f1a-9e3e-4741-bba9-de8dc54dda54)
-![Proyecto nuevo](https://github.com/user-attachments/assets/f9322b80-25b2-4398-8329-e83f6ea4e94c)
-![Proyecto nuevo](https://github.com/user-attachments/assets/8d6bf9f6-24a6-4386-a21e-3662f61199cd)
+![download (3)](https://github.com/user-attachments/assets/083edf3c-7852-4067-9332-1b501c7f9bbc)
+![download (4)](https://github.com/user-attachments/assets/11edda8b-6046-4ef5-9616-61f28e5fc35a)
+
+
 
 ## Notes
 
